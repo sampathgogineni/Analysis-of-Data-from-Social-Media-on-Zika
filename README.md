@@ -1,0 +1,2 @@
+# Analysis-of-Data-from-Social-Media-on-Zika
+Collected Streaming data from Twitter on Zika virus using Python and REST API, stored it in an SQL Database using Node.js performed sentimental analysis on tweets using R, gender analysis on username of twitter using PHP and genderize.io API and topic modeling on tweets using R and LDAvis. Finally, classified the tweets into Relevant and Non Relevant using Weka.
